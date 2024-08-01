@@ -1,6 +1,6 @@
 package apx.school.demo.Messages;
 
-import apx.school.demo.MongoDBRepository;
+import apx.school.demo.Repository.MongoDBRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
